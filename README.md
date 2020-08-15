@@ -1,4 +1,4 @@
 # temperature-hot
 
 
-![]images/temperature-preview.png
+![](images/temperature-preview.png)
